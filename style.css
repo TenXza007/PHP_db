@@ -1,0 +1,12 @@
+.table{
+    border: solid 1px #9955ff;
+}
+
+.table th td{
+    border-bottom: 1px  solid #dddddd;
+    padding: 15px;
+}
+
+.table tr:hover {
+   background-color: rgb(200, 27, 27);
+}
